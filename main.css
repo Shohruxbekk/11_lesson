@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+
+
+
+/* font-family: 'Roboto', sans-serif; */
+
+
+
+* {
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+header {
+    margin: 0 auto;
+    padding-top: 23px;
+
+    max-width: 1400px;
+    max-height: 1610px;
+    background: #FFF;
+    border: 1px solid black;
+    border: none;
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.img_text {
+    padding-left: 30px;
+
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.menu {
+    display: flex;
+
+
+}
+
+.menu_link {
+    color: #3A3838;
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    padding-left: 20px;
+}
+
+.pic {
+    margin: 0 auto;
+    width: 1110px;
+    height: 272px;
+}
+
+
+.main {
+    margin: 0 auto;
+    width: 1400px;
+    height: 450px;
+    border: 2px solid red;
+    border: none;
+    display: flex;
+}
+
+.content_box1 {
+
+    width: 350px;
+    border: 2px solid indigo;
+    border: none;
+}
+
+.box1_img {
+    width: 360px;
+
+
+
+}
+
+.tt {
+    padding: 10px;
+    border: 1px solid indigo;
+    border: none;
+    background: red;
+}
+
+
+
+.box1_text {
+
+
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 19px;
+
+    font-weight: 700;
+
+
+}
+
+.box1_text2 {
+    color: #EBEBEB;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+
+    font-weight: 400;
+
+}
+
+.colins {
+    padding: 10px;
+    background: steelblue;
+    border: 1px red solid;
+    border: none;
+    height: 200px;
+}
+
+.colin_text {
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.c_text2 {
+    color: #EBEBEB;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+.b2_text {
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+
+}
+
+.b2_text2 {
+    color: #EBEBEB;
+    font-family: Roboto;
+    font-size: 16px;
+
+    font-weight: 400;
+
+}
+
+
+.text_box {
+
+    padding: 3px 15px;
+
+    width: 350px;
+    height: 210px;
+    border: 2px solid brown;
+    border: none;
+    background: blueviolet;
+}
+
+
+
+.content_box2 {
+    width: 380px;
+    height: 195px;
+    border: 2px solid black;
+    border: none;
+
+
+}
+
+.box2_img {
+    width: 360px;
+    height: 195px;
+}
+
+.text_box1 {
+    padding: 10px;
+    width: 360px;
+    height: 205px;
+    border: 1px solid rgb(0, 6, 0);
+    border: none;
+    background: green;
+}
+
+.b3_text {
+    color: #FFF;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.b3_text3 {
+
+    color: #EBEBEB;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.header {
+    color: #3A3838;
+    text-align: center;
+
+    font-size: 22px;
+
+    font-weight: 700;
+
+}
+
+.main_container {
+    display: flex;
+    padding-left: 130px;
+    padding-right: 145px;
+    margin: 40px auto;
+    width: 1400px;
+    height: 531px;
+    background: #EDEDED;
+}
+
+.biker {
+    padding-right: 20px;
+}
+
+
+
+.right {
+    padding-left: 30px;
+    color: #3A3838;
+
+    font-size: 22px;
+
+    font-weight: 700;
+}
+
+.text2 {
+    padding-left: 30px;
+    color: #686868;
+
+    font-size: 18px;
+
+    font-weight: 400;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    border: 1px solid red;
+    border: none;
+    width: 1380px;
+    height: 120px;
+    background: #3A3838;
+    padding: 30px 145px 30px 145px;
+}
+
+.logotip {
+    padding-top: 10px;
+}
+
+.fot_web {
+
+    padding-left: 10px;
+    color: #FFF;
+
+    font-size: 18px;
+
+    font-weight: 700;
+
+}
+
+.r_link {
+    padding-left: 30px;
+    color: #FFF;
+    text-align: right;
+   
+    font-size: 18px;
+
+    font-weight: 700;
+    transition: .5s;
+}
+
+.r_link:hover{
+    color: red;
+
+}
+
+.ul{
+    display: flex;
+}
